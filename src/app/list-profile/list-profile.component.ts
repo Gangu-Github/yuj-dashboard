@@ -54,13 +54,7 @@ export class ListProfileComponent implements OnInit {
       shotDescription: 'Price like never before',
       linkTitle: 'Shop Now',
       prodImageLink: "./../../assets/images/belts.jpg"
-    },
-    {
-      prodName: 'Duffel Bags',
-      shotDescription: 'Price like never before',
-      linkTitle: 'Grab Now',
-      prodImageLink: "./../../assets/images/bags.jpg"
-    },
+    }
   ];
 
   constructor() { }
